@@ -1,0 +1,4 @@
+{
+  "prefix": "PrefixDoSeuBot",
+  "token": "TokenDoSeuBot"
+}
