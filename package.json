@@ -1,0 +1,18 @@
+{
+  "name": "teambot",
+  "version": "1.0.0",
+  "description": "Bot para todos!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F$ake_SS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.23.0",
+    "ms": "^2.1.1",
+    "quick.db": "^7.0.0-b19"
+  }
+}
