@@ -1,5 +1,5 @@
 {
-  "name": "teambot",
+  "name": "NomeDoSeuBot",
   "version": "1.0.0",
   "description": "Bot para todos!",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "F$ake_SS",
+  "author": "SeuNome",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.4.2",
