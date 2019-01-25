@@ -6,7 +6,7 @@ exports.run = (client, message, args) => {
     .setAuthor(`${user.username}`)
     .setImage(user.displayAvatarURL)
     .setColor("#36393f")
-    .setFooter("© Universe Community | 2019", client.user.displayAvatarURL)
+    .setFooter("© NomeDoSeuBOT | 2019", client.user.displayAvatarURL)
     .setTimestamp();
   
   message.channel.send(embed);
